@@ -3,7 +3,7 @@ centos-kdb
 
 32bit [KDB](http://kx.com/kdb-plus.php), installed inside centos.
 
-Credit for all the hard work goes to @jasraj, for building an [RPM installer](https://github.com/jasraj/q-build).
+Credit for all the hard work goes to [Jasraj](https://github.com/jasraj), for building an [RPM installer](https://github.com/jasraj/q-build).
 
 ###Running the image
 
